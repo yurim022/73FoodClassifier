@@ -4,6 +4,17 @@
 
 ![foodClassifier](https://user-images.githubusercontent.com/45115557/116417520-4d372900-a876-11eb-9c8c-3f99766bc432.png)
 
+## algorithm
+
+
+## dataProcessing
+
+
+## image classification
+
+
+## Optimization
+
 
 + transfer-learning
 + MobileNetV2
