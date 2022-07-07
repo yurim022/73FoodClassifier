@@ -8,7 +8,7 @@
 
 
 # test classification
-#### Took test for food-image-classifier when eating gal-bi
+#### test image
 ![돼지갈비](https://user-images.githubusercontent.com/45115557/116428804-372e6600-a880-11eb-8269-c38bd497d6b1.jpg)
 
 
